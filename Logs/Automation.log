@@ -1,0 +1,9 @@
+08/23/2020 04:53:27 PM: INFO: ************* Test_003_AddCustomer **********
+08/23/2020 04:53:55 PM: INFO: ************* Login succesful **********
+08/23/2020 04:53:55 PM: INFO: ******* Starting Add Customer Test **********
+08/23/2020 04:54:01 PM: INFO: ************* Providing customer info **********
+08/23/2020 04:54:18 PM: INFO: ***************** Test_001_Login *****************
+08/23/2020 04:54:18 PM: INFO: **************** Verifying Home Page Title ***********
+08/23/2020 04:54:38 PM: INFO: ****************  Home Page Title test case is passed ***********
+08/23/2020 04:54:43 PM: INFO: ****************  Login test case is started ***********
+08/23/2020 04:55:11 PM: INFO: ****************  Login test is passed ***********
